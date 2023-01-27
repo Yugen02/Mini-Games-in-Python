@@ -180,7 +180,7 @@ def funcion9():
 
 def funcion10():
     global turno10
-    turno10 = str('¡Pasa Pack!')
+    turno10 = str('Ganastes')
     texto_pan10.set(turno10)
 
 
